@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f757c342b458f5067329430d910b6115875371d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_e2825d3cf19f9da6b0584564a4e9bc7883d16695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_11e574a78cc8d80d2ae74db08d28b52b9156e4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1b90860723f8c24e7b6ca7cddc2948f6ae3ad427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b0835f0244da9ce10b39340c56ad48e84de14e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_e0af2960a3dc791e80a3e9a4764cf612ece6326b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_813a260e2cb12ea372bc26b7477d5a48e69e7c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1236557443e68666d54f0bdc822cbe56b8755e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_44f113b34bfa11aa61fcfc0d0a1c58af3854773e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_acf18639670cd48b6c61637ffd64e7ba346c1b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_59b4cc11be8e952ebddb55ca9ff0799e1d19a0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0c7552730b3f9ee65948ad0a9d6beaf3589316b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2630a310baf71b8e8a6d5f4be6f62b90d3683553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_14938939c0915669233d3fa7fdf862a8b6c7c709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9918c1aae5d89c2acab787bc0a8df6aa1dac8f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4e3a9614a0d06cb7207343b1a3fb6ffd45ad942c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/VinodhKumar/AndroidStudioProjects/MT16062_ToDoApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_08af7a7903899a6089bf2713ca6a5dca4155ecab.jar" />
+    </item>
+
+</items>
